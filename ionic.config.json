@@ -1,0 +1,7 @@
+{
+  "name": "apk_api",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
